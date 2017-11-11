@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="4a.css" type="text/css"?>
+<student>
+<stud-info>Student Information</stud-info>
+    <stud1>
+        <usn>1JS14CS096</usn>
+        <name>SUMANT RAJ</name>
+        <noc>JSSATE</noc>
+        <branch>CSE</branch>
+        <yoj>2014</yoj>
+        <eid>sumant261195@gmail.com</eid>
+    </stud1>
+    <br/>
+    <stud2>
+        <usn>1JS14CS066</usn>
+        <name>NEERU</name>
+        <noc>JSSATE</noc>
+        <branch>CSE</branch>
+        <yoj>2014</yoj>
+        <eid>neerubaby@gmail.com</eid>
+    </stud2>
+    <br/>
+    <stud3>
+        <usn>1JS14CS083</usn>
+        <name>SAHIL</name>
+        <noc>JSSATE</noc>
+        <branch>CSE</branch>
+        <yoj>2014</yoj>
+        <eid>sahilbauwa@gmail.com</eid>
+    </stud3> 
+</student>
+
